@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon concerning vocal and instrumental musick in the church as it was delivered in the parish church of St. Andrew Undershaft, upon the 31th of May, 1696, being Whit-Sunday, and the day wherein the organ there erected was first made use of / by Gabriel Towerson.</title>
+            <author>Towerson, Gabriel, 1635?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63010</idno>
+            <idno type="STC">Wing T1974</idno>
+            <idno type="STC">ESTC R18086</idno>
+            <idno type="EEBO-CITATION">12657954</idno>
+            <idno type="OCLC">ocm 12657954</idno>
+            <idno type="VID">65417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65417)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 677:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon concerning vocal and instrumental musick in the church as it was delivered in the parish church of St. Andrew Undershaft, upon the 31th of May, 1696, being Whit-Sunday, and the day wherein the organ there erected was first made use of / by Gabriel Towerson.</title>
+                  <author>Towerson, Gabriel, 1635?-1697.</author>
+               </titleStmt>
+               <extent>[2], 5-30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Music in churches --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65417:1"/>
+            <pb facs="tcp:65417:1"/>
+            <p>A SERMON CONCERNING VOCAL and INSTRUMENTAL MUSICK <hi>In the CHURCH.</hi>
+            </p>
+            <p>As it was Delivered in the Pariſh Church of St. <hi>Andrew <g ref="char:V">Ʋ</g>nderſhaft,</hi> UPON The 31<hi rend="sup">th</hi> of <hi>May,</hi> 1696, being <hi>Whit-Sunday,</hi> and the Day wherein the <hi>ORGAN</hi> there Erected was Firſt made Uſe of.</p>
+            <p>By <hi>GABRIEL TOWERSON,</hi> D.D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. Aymer,</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhill,</hi> MDCXCVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:65417:2"/>
+            <pb n="5" facs="tcp:65417:2"/>
+            <head>A SERMON CONCERNING VOCAL and INSTRUMENTAL MUSICK In the CHURCH.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EPH. 5. part of the 18th and 19th Verſe.</hi>
+                  </bibl>
+                  <p>—But be filled with the Spirit; Speaking to your ſelves in pſalms, and hymns, and ſpiritual ſongs, ſinging, and making melody in your heart to the Lord.</p>
+                  <bibl>
+                     <hi>The whole Period runs thus,</hi>
+                  </bibl>
+                  <p>And be not drunk with wine wherein is exceſs, but be filled with the Spirit; Speaking to your ſelves in pſalms, and hymns, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>THE Purpoſe of the enſuing Diſcourſe is to ſatisfie the double buſineſs of this day; That which prompts you to reflect upon the Graces of that Spirit, which did as this day deſcend upon the Church; And that which prompts you to commemorate that, and all other
+<pb n="6" facs="tcp:65417:3"/>the Bleſſings of God to it with Pſalms, and Hymns, and Spiritual Songs: Whether they be ſuch as mount up to Heaven on the alone wings of their own breath; Or whether they be ſuch as are alſo advantag'd in their aſcent thither by the breath of Muſical Inſtruments, and both conducted, and puſhed on by it. And may that Spirit, by which theſe, and all other Religious Actions ought to be directed, ſo aſſiſt me in the handling of the Exhor<g ref="char:EOLhyphen"/>tations that are now before me, that I may both <hi>my ſelf</hi> apprehend, and ſet <hi>before you</hi> the due im<g ref="char:EOLhyphen"/>portance of each of them, and approve them both to your Reaſon, and Affections. In order where<g ref="char:EOLhyphen"/>unto,</p>
+            <p n="1">I. I will begin with that, which ſuggeſts our be<g ref="char:EOLhyphen"/>ing <hi>filled with the Spirit,</hi> and accordingly enquire,
+<list>
+                  <item>1. What St. <hi>Paul</hi> means by being <hi>filled with the Spirit.</hi>
+                  </item>
+                  <item>2. For what <hi>end</hi> we are to endeavour after it.</item>
+                  <item>3. By what <hi>means</hi> we may come to be filled with it.</item>
+                  <item>4. Of what <hi>uſe</hi> our being ſo filled is.</item>
+               </list>
+            </p>
+            <p n="1">1. What St. <hi>Paul</hi> means in the general by being <hi>filled with the Spirit,</hi> will not be difficult for him to learn who ſhall conſider what that Spirit is, which he, and indeed all Chriſtian Writers commend to our deſires, and endeavours, or who they are whom St. <hi>Paul</hi> invites to get themſelves repleniſhed with it. Becauſe it is certain on the one hand that the
+<pb n="7" facs="tcp:65417:3"/>only Spirit, which either he, or they commend to us, is that Spirit of God which did as this day de<g ref="char:EOLhyphen"/>ſcend upon the Church, or rather the Gifts, and Graces of it; And no leſs certain on the other (be<g ref="char:EOLhyphen"/>cauſe St. <hi>Paul</hi> directs this Exhortation of his to the Community of the <hi>Epheſians</hi>) that he meant ſuch Gifts, or Graces of that Spirit, as are common to all Believers, or at leaſt intended by God to be ſo.</p>
+            <p n="2">2. But becauſe it is certain that even thoſe Gifts, or Graces of the Spirit are many, and various, and no neceſſity lies upon us to underſtand St. <hi>Paul</hi> of all alike, but rather the contrary, as will appear by and by from what precedes, and follows his Exhor<g ref="char:EOLhyphen"/>tation to be <hi>filled</hi> with them; Therefore it will be neceſſary for me to go on to enquire <hi>for what end</hi> he exhorts us to endeavour after ſuch a filling, as which alone will give us to underſtand what Gifts, and Graces he eſpecially intended.</p>
+            <p>Now that I ſhall not doubt to affirm, to be the either exciting, or maintaining in us the Paſſion of <hi>Joy.</hi> A Paſſion, which Religion doth not only not forbid, but enjoyn upon us, and commend to us; As without which Religion it ſelf would be very uneaſie to us, but however we ſhould not be able to bear up under thoſe many evils, which either Reli<g ref="char:EOLhyphen"/>gion it ſelf, or the preſent Diſpenſations of the Di<g ref="char:EOLhyphen"/>vine Providence will be ſure to bring upon us. Now as for that Reaſon it is that Religion it ſelf doth ſo often endeavour to ſtir up this Paſſion of <hi>Joy</hi> in us, and indeed never profeſſeth any the leaſt enmity to it, ſave where it is either miſplac'd, or immoderate;
+<pb n="8" facs="tcp:65417:4"/>ſo we ſhall find, if we look into the Context, that it is St. <hi>Pauls</hi> great deſign in this place to ſtir up, and keep alive in us this Paſſion of <hi>Joy,</hi> and make it acceptable to God, as well as beneficial to our ſelves. For wherefore elſe ſhould St. <hi>Paul</hi> exhort, that Men ſhould rather be <hi>filled with the Spirit,</hi> than <hi>drunk with Wine,</hi> as that too in order to their <hi>Sing<g ref="char:EOLhyphen"/>ing,</hi> and <hi>making Melody?</hi> But that he meant to direct them to a proper means for the exciting of their <hi>Joy,</hi> and ſuch as ſhould give them a much more innocent, as well as more excellent one, than the Wine of the Drunkard doth to him. Or where<g ref="char:EOLhyphen"/>fore inſiſt, as he doth, upon their ſpeaking to one another in Pſalms, and Hymns, and Spiritual Songs, Singing, and making Melody in their Heart to the Lord? Theſe, as they are the Natural Expreſſions of <hi>Joy,</hi> and accordingly directed to by St. <hi>James</hi>
+               <note n="*" place="margin">Jam. 5.13.</note>, when a Man is under the ſenſation of it; ſo the fomenters, and maintainers of it, that I ſay not alſo of the well-being of him in whom it is. St <hi>Paul</hi> ſaw how neceſſary the Paſſion of <hi>Joy</hi> was to ſupport the Spirits even of Chriſtian Men; But eſpecially when they are alſo taken off from the common in<g ref="char:EOLhyphen"/>centives to it in Mankind, from the indulging of <hi>Luſtful Practices,</hi>
+               <note n="†" place="margin">Eph. 5.3, 4.</note> or as <hi>looſe Diſcourſes.</hi> He alike ſaw how neceſſary it ſometime was, even where there wanted not proper incentives to that Paſſion, to make uſe of other means to raiſe the dull ſpirits of Men, and put them into a condition even to enjoy their own Happineſs: Thoſe, who live more at eaſe than the Chriſtian doth, making uſe of brisk Wine to raiſe their Spirits, and furniſh them
+<pb n="9" facs="tcp:65417:4"/>with that pleaſing emotion, which all their other acquiſitions cannot give them. That therefore thoſe, with whom he had to do, and who by means of their own ſenſe of Sin, or Calamity, had much more need of it, might not want ſuch an ex<g ref="char:EOLhyphen"/>citation; He exhorts them, inſtead of <hi>filling them<g ref="char:EOLhyphen"/>ſelves with Wine</hi> (which would give them but a fading, as well as ſuperficial Joy) to <hi>fill themſelves with Gods Spirit,</hi> and particularly with ſuch Graces of it as might be thought moſt to miniſter to it, as well as afterwards to keep it alive, and increaſe it with <hi>Pſalms,</hi> and <hi>Hymns,</hi> and <hi>Spiritual Songs.</hi>
+            </p>
+            <p>Which ſuppoſed, the Graces, wherewith St. <hi>Paul</hi> exhorts that we ſhould eſpecially fill our ſelves, will be found to be a <hi>grateful ſenſe of Gods good<g ref="char:EOLhyphen"/>neſs and beneficence; a ſtedfaſt belief of his promiſes;</hi> but eſpecially of thoſe which relate to the <hi>Happi<g ref="char:EOLhyphen"/>neſſes</hi> and <hi>Glories of the other World;</hi> and what will not fail to follow from the former if they be well improv'd in our Thoughts, and Meditations, an ardent <hi>love,</hi> and <hi>affection for himſelf.</hi> For if our Souls be filled with theſe, they cannot want a Joy as great, as they themſelves are able to con<g ref="char:EOLhyphen"/>tain, and ſuch as no preſent Evils, how great ſo<g ref="char:EOLhyphen"/>ever, can ever raviſh from us: The Paſſion of Joy, though for the moſt part ariſing from a <hi>preſent</hi> Good, yet ariſing no leſs from ſuch a one as is <hi>pre<g ref="char:EOLhyphen"/>ſent</hi> to us <hi>by Faith,</hi> provided that that Faith be firm, and ſtedfaſt, and we find that in us which may as certainly entitle us to the object of it. The former whereof he cannot want, who hath a due ſenſe of
+<pb n="10" facs="tcp:65417:5"/>Gods Truth, as well as Goodneſs; no more than he can be without the latter, who finds in himſelf an ardent Love for God, becauſe the whole both of the Law, and the Goſpel.</p>
+            <p n="3">3. That therefore being the due <hi>ſenſe,</hi> and mean<g ref="char:EOLhyphen"/>ing of being <hi>filled with the Spirit,</hi> and the Paſſion of <hi>Joy</hi> the <hi>end</hi> for which we are exhorted to get our ſelves ſo <hi>fill'd;</hi> Enquire we in the Third place <hi>by what means</hi> we may come to be filled with it; which, as it is a much more important enquiry, ſo may ſeem alſo of more difficult reſolution. Be<g ref="char:EOLhyphen"/>cauſe that, no doubt, depends more upon the good pleaſure of the <hi>filler,</hi> than it doth upon any thing that we can do toward the attaining of it. But as if we be well aſſured of the good Will of him that is to fill us, as well as of his calling upon us to get our ſelves filled with it, we cannot doubt of his chalking out wayes, whereby we may come to be filled with it; ſo we ſhall find, if we conſult the Scripture, or our own Reaſon, what thoſe wayes, and means are, becauſe directed to either by the one, or the other. Of which,</p>
+            <p n="1">(1.) The firſt, and, no doubt, moſt eſpecial one is to invite that Spirit into us by <hi>Prayer,</hi> and beg of God to fill us with the Graces of it; becauſe ex<g ref="char:EOLhyphen"/>preſly recommended to us as a means to attain it, yea aſſured of obtaining it from him. For after our Saviour had ſet before his Diſciples the general efficacy of Prayer, and confirm'd it from the diſ<g ref="char:EOLhyphen"/>poſition of Earthly Parents to gratifie their Chil<g ref="char:EOLhyphen"/>dren
+<pb n="11" facs="tcp:65417:5"/>in all thoſe good things, which they may be ſuppoſed to ask of them; He not only infers from it the greater likelyhood of Gods gratifying the Requeſts of his Children in all their Reaſonable Demands, and particularly as to what they make of his Holy Spirit, but repreſents it as a thing in<g ref="char:EOLhyphen"/>conceivable how God ſhould deny that Spirit to them. For if <hi>ye</hi> (ſaith he<note n="*" place="margin">Luk. 11.13.</note>) <hi>being evil,</hi> are not yet ſo evil as to deny good Gifts to your Children; how much leſs ſhall your Heavenly Father deny the Holy Spirit to them that ask him.</p>
+            <p n="2">(2.) I look upon as no leſs ſure a mean, though not ſo particularly directed, your cheriſhing that Spirit when you have it in any meaſure (as to be ſure all Believers have) by attending to the Motions of it, and readily complying with them, in all thoſe things to which they ſhall incline you: Such an attention and complyance naturally diſpoſing a Benign Being not only to continue his Graces to you, but to give you more and more inſtances thereof, as knowing that what he ſhall farther vouchſafe you, ſhall be as kindly received and comply'd with, as what he hath already afforded to you. Which ſuppoſed, it will not be difficult to ſhew, which is all that will be farther neceſſary on this Head, how you may come to be filled with thoſe particular Graces, which I have ſaid St. <hi>Paul</hi> to refer more eſpecially to, when he exhorts to be filled with the Spirit: For then may you expect to be filled with a <hi>grateful ſenſe of Gods Goodneſs,</hi> a <hi>firm belief of his Promiſes,</hi> and as <hi>ardent a love for
+<pb n="12" facs="tcp:65417:6"/>himſelf,</hi> when you not only endeavour to cheriſh them by a due conſideration of the excellency there<g ref="char:EOLhyphen"/>of, but ſet your ſelves to the doing of all thoſe things, which ſuch a <hi>ſenſe,</hi> and <hi>belief,</hi> and <hi>love</hi> will prompt you to the performance of; becauſe that is all, be<g ref="char:EOLhyphen"/>ſide Prayer, which can be ſuppoſed to be requir'd of you to invite God to fill you with them.</p>
+            <p n="4">4. The Fourth and laſt thing comes now to be ſpoken to, even <hi>of what uſe</hi> our being filled with the Spirit is, and particularly as to that Joy, for which I have ſaid it to be deſign'd. Which we ſhall find upon examination to be, to <hi>direct our Joy</hi> in an eſpecial manner <hi>to Spiritual Objects,</hi> to <hi>moderate it as to Earthly, and Senſual ones,</hi> and both <hi>keep it up,</hi> and <hi>expreſs</hi> it, if not by <hi>means purely Spiritual,</hi> yet by ſuch as are <hi>principally</hi> and <hi>eſpecially</hi> ſuch.</p>
+            <p>For whereas he, that is inſpir'd with Wine, will by that very Wine of his be prompted to place his Joy on Senſual Objects, if not alſo on forbidden ones; He, who is filled with the Spirit of God, and particularly with thoſe Graces of it which I before deſcribed, will by that very Spirit be directed eſpe<g ref="char:EOLhyphen"/>cially to fix his Joy upon God, and the things of God, to delight in his Commands, and to aſpire after his Favours. In fine, to ſet as high a value upon them, as the Men of the World do upon their moſt pleaſing Enjoyments, yea to ſuffer the want of all Senſual Enjoyments, rather than run the ha<g ref="char:EOLhyphen"/>zard of more Spiritual and refined ones.</p>
+            <pb n="13" facs="tcp:65417:6"/>
+            <p>Whereas again he, who is inſpir'd with Wine, will by that very Wine of his be tempted to an immoderate Joy in Earthly and Senſual Things, and ſuch a one, as ſhall not only prompt him to forget that God, who is the giver of them, but abuſe them alſo to his diſhonour; He, who is filled with the Spirit of God, will by that very Spirit of his be prompted to enjoy them with Moderation, becauſe no way comparable to thoſe Spiritual En<g ref="char:EOLhyphen"/>joyments, which he himſelf ſuggeſts, and much leſs to thoſe Bleſſed and Heavenly ones, which he aſſures us of in another World.</p>
+            <p>Whereas laſtly he, who is inſpir'd with Wine, will by that very Wine of his be prompted to keep up, and expreſs his Joy by Extravagant Actions, or Lewd Songs, and ſuch as tend rather to corrupt his own, and other Mens Minds, than either to refreſh, or improve them; He, who is filled with the Spirit of God, and particularly with a <hi>grateful ſenſe of his immenſe Goodneſs, a ſtedfaſt belief of his Heavenly Promiſes,</hi> and a no leſs <hi>ardent love and affection for him,</hi> will be thereby prompted to keep up, and expreſs his Joy by <hi>Pſalms,</hi> and <hi>Hymns,</hi> and <hi>Spiritual Songs,</hi> by ſuch as will put <hi>new Life</hi> into his Devotion, as well as <hi>ſhew</hi> it forth, and put new Life into <hi>other Mens</hi> Devotions, as well as into <hi>his own.</hi> The <hi>Second</hi> General to be ſpoken to, and equally enjoyned with the former: He, who (as you have heard) exhorts Men to be filled with the Spirit, exhorting them in like manner to <hi>ſpeak to themſelves,</hi> or rather to one another <hi>in Pſalms, and
+<pb n="14" facs="tcp:65417:7"/>Hymns, and Spiritual Songs, ſinging, and making me<g ref="char:EOLhyphen"/>lody in their Heart to the Lord.</hi>
+            </p>
+            <p n="2">II. In the handling of which <hi>Second</hi> Exhortation, I will proceed in this Method;
+<list>
+                  <item>1. I will enquire what the Apoſtle meant by <hi>Pſalms,</hi> and <hi>Hymns,</hi> and <hi>Spiritual Songs.</hi>
+                  </item>
+                  <item>2. What he meant by <hi>ſpeaking to themſelves,</hi> as our <hi>Tranſlation</hi> here renders it.</item>
+                  <item>3. What he meant by <hi>ſinging,</hi> and <hi>making melody in their Heart to the Lord.</hi>
+                  </item>
+                  <item>4. Of what <hi>uſe</hi> ſuch a Singing, and making Me<g ref="char:EOLhyphen"/>lody is, and particularly in the preſent caſe.</item>
+                  <item>5. What is to be thought of that <hi>Singing,</hi> and <hi>making Melody,</hi> which is attended with <hi>Muſical Inſtruments.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. That, which is firſt to be enquir'd into, with reſpect to the preſent Exhortation, is what St. <hi>Paul</hi> meant by <hi>Pſalms,</hi> and <hi>Hymns,</hi> and <hi>Spiritual Songs;</hi> That is to ſay, whether he meant ſo many different ſorts of Songs; and, if he did ſo, what thoſe ſorts of Songs are. I muſt needs ſay, that I cannot think St. <hi>Paul</hi> made uſe of ſo many words to ex<g ref="char:EOLhyphen"/>preſs <hi>one,</hi> and the <hi>ſame</hi> thing: And I think as little that he was ſo curious, as other Men think he was, in diſtinguiſhing them. For which laſt cauſe I muſt alike ſay, that <hi>Beza's</hi>
+               <note n="(a)" place="margin">
+                  <hi>Annot. in</hi> Col. 3.16.</note> diſtinction of them ſeems to me to be more nice, than well grounded, when he makes St. <hi>Paul</hi> to underſtand by <hi>Pſalms</hi>
+               <pb n="15" facs="tcp:65417:7"/>all ſorts of Songs, whatſoever their Argument be, as it is certain thoſe of <hi>David</hi> were of many; By <hi>Hymns,</hi> Songs of Praiſe; and by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Spiritual Songs,</hi> ſuch as were of a more Artificial Compoſition. For beſide that it is plain from the Argument, that I am now upon, that our Apoſtle is here entreating of the matter of <hi>Joy,</hi> and no other Songs therefore to be here underſtood but <hi>Songs of Praiſe,</hi> or ſuch as have an affinity with them: I do not ſee why <hi>Hymns,</hi> as well as <hi>Odes,</hi> may not paſs for Songs of an Artificial Compoſition, and <hi>Odes</hi> therefore, no more than <hi>Hymns,</hi> to appro<g ref="char:EOLhyphen"/>priate that Notion to themſelves. I rather think that when St. <hi>Paul</hi> exhorted theſe Men to ſpeak to themſelves in <hi>Pſalms,</hi> and <hi>Hymns,</hi> and <hi>Spiritual Odes,</hi> or <hi>Songs,</hi> his meaning was that they ſhould ſpeak to one another, and to God either in ſuch Songs as were taken out of the Scripture, and par<g ref="char:EOLhyphen"/>ticularly out of the <hi>Book of Pſalms,</hi> or in ſuch Songs as were of <hi>their own,</hi> or <hi>other Private Mens</hi> Com<g ref="char:EOLhyphen"/>poſition, by what Names ſoever known, or diſtin<g ref="char:EOLhyphen"/>guiſhed, and particularly by thoſe of <hi>Hymns,</hi> and <hi>Odes.</hi> According to that known diſtinction of <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi>
+               <note n="(b)" place="margin">Apolog. cap. <hi>39.</hi>
+               </note>, where he ſpeaks of the uſual Singing in the Antient Church; To wit, that <hi>as any Man was able to ſing either out of the Holy Scriptures, or of his own Compoſition, he was invited into the midſt of their Aſſembly to do it</hi> to entertain the reſt, or rather to be their Praecontor unto God. And indeed than this ſort of Singing there is nothing more known in the Church, even from the very beginning
+<pb n="16" facs="tcp:65417:8"/>of it. For there is mention in that ſo well known Epiſtle of <hi>Pliny</hi>
+               <note n="(c)" place="margin">Lib. <hi>10.</hi> ep. <hi>97.</hi>
+               </note> to <hi>Trajan</hi> of their <hi>Singing upon the day of their Aſſemblies a Song, or Hymn to Chriſt as God:</hi> As in like manner elſewhere<note n="(d)" place="margin">
+                  <hi>Euſeb.</hi> Eccl. Hiſt. lib. 5. cap. 28.</note> of other the like Hymns <hi>which were fram'd by the Brethren from the beginning,</hi> and from which <hi>Paulus Samo<g ref="char:EOLhyphen"/>ſatenus</hi>
+               <note n="(e)" place="margin">
+                  <hi>Euſeb.</hi> ibid. lib. 7. c. 30.</note>took occaſion to introduce others of his own Compoſition, but which were more in honour of himſelf, than of Chriſt.</p>
+            <p n="2">2. But to go on to that, which is next in order, even what St. <hi>Paul</hi> meant by <hi>ſpeaking to themſelves</hi> in them, according as our <hi>Tranſlation</hi> hath rendred it; but which ought rather to have been rendred <hi>among themſelves,</hi> or <hi>to one another:</hi> That being not only the ſignification of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in ſeveral other places of Scripture, and particularly, <hi>Eph.</hi> 4.31. but more agreeable too to the deſign of all Publick Devotions, which though not without an eye to the Private Benefit of every one that uſeth them, yet are more eſpecially intended for a mutual ſtirring up one another to that Spirit, wherewith the whole ought to be attended: According to that parallel place of St. <hi>Paul</hi> to the <hi>Coloſſians</hi>
+               <note n="(f)" place="margin">Col. 3.16.</note>, and where though the ſame <hi>Greek</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is uſed, yet it is rendred even by our ſelves <hi>teaching, and admoniſh<g ref="char:EOLhyphen"/>ing one another in Pſalms, and Hymns, and Spiritual Songs, ſinging with Grace in their Hearts to the Lord.</hi> And ſtands farther confirmed by that as known place of the Authour to the <hi>Hebrews</hi>
+               <note n="(g)" place="margin">Heb. 10.25.</note>, where he dehorts from the <hi>forſaking of their common Aſſem<g ref="char:EOLhyphen"/>blies;</hi>
+               <pb n="17" facs="tcp:65417:8"/>becauſe oppoſing to it on the one hand their <hi>conſidering one another,</hi> and <hi>provoking unto Love, and to good Works,</hi> as on the other, <hi>the Exhorting of one another.</hi> Both the one, and the other of which ſhew what is the principal end of Chriſtian Aſſemblies, or rather that Mens inciting one another to a kind of Contention in Devotion is.</p>
+            <p n="3">3. Which ſuppoſed, we may proceed to enquire what is in like manner meant by <hi>Singing;</hi> and <hi>ma<g ref="char:EOLhyphen"/>king Melody in the Heart to the Lord.</hi> A thing not difficult for thoſe to gueſs at, who ſhall but remem<g ref="char:EOLhyphen"/>ber that St. <hi>Paul</hi> doth not only invite Men upon this occaſion to <hi>Pſalms,</hi> and <hi>Hymns,</hi> and <hi>Spiritual Songs,</hi> both here, and in the forequoted place to the <hi>Co<g ref="char:EOLhyphen"/>loſſians,</hi> but in this place to <hi>ſpeak</hi> among themſelves; or rather <hi>to one another</hi> in them, and in the other to <hi>teach,</hi> and <hi>admoniſh one another</hi> by them. For that is enough to ſhew, that by <hi>Singing, and making Melody in the Heart,</hi> cannot be meant a meer <hi>inter<g ref="char:EOLhyphen"/>nal</hi> praiſing of God, becauſe that is a ſort of Me<g ref="char:EOLhyphen"/>lody, which can be heard by none but God, and cannot therefore be ſuppoſed to have an influence upon any other; But either (as <hi>Chryſoſtome</hi>
+               <note n="(h)" place="margin">In locum. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>hath well gloſſed it) cauſing the atten<g ref="char:EOLhyphen"/>tion of the Mind to go along with the Voice, or both that, and the Affection to accompany it. As without which Men will have no more ſhare in the Praiſes of God, than thoſe Muſical Inſtruments, which attend their Singing or at beſt ſing
+<pb n="18" facs="tcp:65417:9"/>rather to themſelves, than unto God. And indeed were it not for a certain peeviſhneſs of Mind, or rather a reſolution in ſome Perſons to go croſs to all that went before them; ſuch Expreſſions as Singing, and making Melody in the Heart could not ever be look'd upon as in the leaſt excluding the Melody of the Voice, but rather as ſuppoſing, or connoting it. I ſay not only, becauſe that is the known and uſual ſenſe of the words, that are made uſe of to expreſs it; But becauſe we learn from St. <hi>James</hi>
+               <note n="(i)" place="margin">James 3.9.</note>, that the <hi>Tongue</hi> was made to <hi>bleſs God,</hi> as well as the Heart; and from St. <hi>Paul</hi>
+               <note n="(k)" place="margin">Rom. 10.10.</note>, that as <hi>with the heart men believe unto righteouſneſs,</hi> ſo <hi>with the mouth con<g ref="char:EOLhyphen"/>feſſion is made unto ſalvation.</hi> And how much it may contribute both to the one and the other, will appear if we conſider,</p>
+            <p n="4">4. Of what <hi>uſe</hi> ſuch a Singing, and making Me<g ref="char:EOLhyphen"/>lody may be, and particularly a, to the matter of <hi>Joy,</hi> the next thing to be enquir'd into.</p>
+            <p>Now that we ſhall find to be,
+<list>
+                  <item>1. <hi>Firſt,</hi> Its compoſing the diſorderly Paſſions of the Mind, and bringing it to a ſerene and ſe<g ref="char:EOLhyphen"/>date Temper.</item>
+                  <item>2. <hi>Secondly,</hi> Its ſtirring up, and improving, and directing its more regular ones.</item>
+                  <item>3. <hi>Thirdly,</hi> Its prompting the Mind to reflect with ſo much the more pleaſure on that which is the ſubject matter of it.</item>
+               </list>
+            </p>
+            <pb n="19" facs="tcp:65417:9"/>
+            <p>The Learned <hi>Authour</hi> of the Queſtions and An<g ref="char:EOLhyphen"/>ſwers <hi>ad Orthodoxos</hi>
+               <note n="(l)" place="margin">Apud. <hi>Juſtin</hi> Martyr <hi>q.</hi> 107.</note>, hath this Queſtion among many others; <hi>Why, when Songs were invented by Infidels to deceive, and were brought in upon thoſe that were under the Law by means of the weakneſs of their Minds, they, who have receiv'd the perfect diſcipline of Grace, and ſuch as is far remov'd from the man<g ref="char:EOLhyphen"/>ners of the other, ſhould yet make uſe of the ſame Songs in the Church?</hi> I meddle not at preſent with that part of his Anſwer to it, which concerns <hi>In<g ref="char:EOLhyphen"/>ſtrumental</hi> Muſick, becauſe I ſhall by and by have a fairer Occaſion to conſider it. But I cannot for<g ref="char:EOLhyphen"/>bear to take Notice of that which concerns <hi>Vocal,</hi> becauſe it gives ſuch an Advantageous Character of it. For not only doth he deny that ſort of Muſick to be a thing adapted only to weak, and tender Minds, but affirms moreover, That <hi>it draws the Mind, not without ſome pleaſure to the deſire of that, which is the Argument thereof;</hi> That <hi>it layes aſleep ſuch of the Paſſions, as riſe up againſt us from our own Fleſhly Nature, and repels thoſe Evil Thoughts, that are injected into us by our inviſible Enemies;</hi> That <hi>it prepares our Soul, as by a kind of watering, for the bringing forth of Divine Fruits;</hi> That <hi>it makes the Champions of Piety to bear up ſtoutly under their ſeveral preſſures, and is a cure of all thoſe affli<g ref="char:EOLhyphen"/>ctive Evils, that may happen to them in the preſent Life:</hi> In fine, That <hi>it is a driver away of Devils, and perfects the Soul in all thoſe Vertues, which true Piety ſuggeſts.</hi> Which ſeveral Properties of it I ſhall take Notice of, as they ſhall fall in with thoſe
+<pb n="20" facs="tcp:65417:10"/>Uſes, of which I but now ſaid this Singing and making Melody to be.</p>
+            <p n="1">1. To begin with that, which is <hi>firſt</hi> in order, even its compoſing the diſorderly Paſſions of the Mind, and bringing it to a ſerene and ſedate Tem<g ref="char:EOLhyphen"/>per. A thing not to be doubted of by thoſe who ſhall conſider, that it doth by the I leaſure, and even Surprize, which it gives to the Mind of him that hears it, fix his Spirits, and ſtops them from running out into thoſe extravagant courſes, which a diſorderly Paſſion puts them in. But how much leſs to be doubted, when we find by the Scriptures, that it was alſo the effect of <hi>Inſtrumental Muſick,</hi> and which, becauſe wanting that ſweet and enga<g ref="char:EOLhyphen"/>ging Senſe which belongs to Songs, muſt be ſup<g ref="char:EOLhyphen"/>poſed to be farther removed from it. For thus it appears from the 16th Chapter of the Firſt Book of <hi>Samuel,</hi> that when an Evil Spirit from the Lord came upon <hi>Saul</hi> (which the <hi>Jewiſh</hi> Writers, and not without cauſe, interpret of a diſorder of the Mind, whether raiſed in him, or fomented by the Devil) the Servants of <hi>Saul,</hi> agreeably to his own Injun<g ref="char:EOLhyphen"/>ctions, did in order to his Cure provide him of that great Muſician <hi>David,</hi> who no ſooner <hi>took his Harp, and played with his Hand,</hi> but <hi>Saul was refreſhed, and was well, and the Evil Spirit departed from him, v.</hi> 23. of that Chapter. Agreeable hereto is what we learn from Profane Authours, as <hi>Grotius</hi> hath per<g ref="char:EOLhyphen"/>tinently obſerved on the Firſt of <hi>Samuel,</hi> the <hi>tenth,</hi> and the <hi>fifth</hi> Verſe: He there telling us, that <hi>Py<g ref="char:EOLhyphen"/>thagoras</hi> did by Muſical Sounds ſoften fierce Minds,
+<pb n="21" facs="tcp:65417:10"/>
+               <hi>Aſclepiades</hi> put a ſtop to Seditions, <hi>Damon</hi> reduce Drunken, and Petulant Men to a Sober, and Modeſt Behaviour, and <hi>Xenocrates</hi> by the ſame means bring Madmen to themſelves.</p>
+            <p n="2">2. But beſide that the Muſick we ſpeak of doth compoſe the diſorderly Paſſions of the Mind, which is in it ſelf of no ſmall ſervice to Religion, beſide the diſpoſition it produceth in us to farther impreſ<g ref="char:EOLhyphen"/>ſions of it; We ſhall find if we look a little far<g ref="char:EOLhyphen"/>ther, that it doth equally <hi>ſtir up,</hi> and <hi>improve,</hi> and <hi>direct</hi> its more <hi>regular</hi> ones. Of the <hi>firſt</hi> of which we have a famous inſtance in the great St. <hi>Auguſtine,</hi> which is ſo much the more worthy of our belief, becauſe it hath a place in the <hi>Confeſſions,</hi> which he made to God, and in which Holy Men, at leaſt, are not wont to ſpeak lightly, or unadviſedly. For <hi>how much,</hi> ſaith he<note n="(m)" place="margin">
+                  <hi>Conf.</hi> lib. 9. cap. 6.</note>, <hi>did I weep at thy Hymns, and Songs, being not a little ſtir'd up by the Voices of thy ſweet-ſinging Church? Thoſe Voices of theirs flow'd in at my Ears, and together with them thy Truth was melted into my Heart, from whence boil'd up an affe<g ref="char:EOLhyphen"/>ction of Piety, which again iſſued forth in Tears, and then it was well with me becauſe of them.</hi> And tho' in the next Book<note n="(n)" place="margin">
+                  <hi>Conf.</hi> lib. 10. cap. 33.</note> of the ſame <hi>Confeſſions,</hi> he ſeems to be afraid, leſt the Muſick of the Church ſhould more affect his Ears, than that, which was ſung, did his Heart, and was thereupon inclin'd to think that it would be much better if ſuch a Sing<g ref="char:EOLhyphen"/>ing were uſed, as departed little from a ſimple pro<g ref="char:EOLhyphen"/>nunciation; Not well conſidering, I ſuppoſe, at that time this Exhortation of St. <hi>Paul</hi> concerning
+<pb n="22" facs="tcp:65417:11"/>ſpeaking to one another in <hi>Pſalms,</hi> and <hi>Hymns,</hi> and <hi>Spiritual Odes,</hi> or <hi>Songs,</hi> which undoubtedly ſigni<g ref="char:EOLhyphen"/>fie ſomewhat more than Words deliver'd with a light flexion of the Voice: Yet again, when he conſidered <hi>the Tears, which he himſelf ſhed in the very beginnings of his Converſion, and how much he was even then mov'd, not with the Singing, but with the things that were ſung, when they were chanted forth with a clear, and agreeable Voice,</hi> he was led again to <hi>acknowledge the great profit</hi> of that Inſtitution, and of the Cuſtom of the Church in it. So great force there is in Songs to <hi>ſtir up a regular Paſſion,</hi> as well as to <hi>compoſe an irregular one;</hi> And if ſo, there will be leſs doubt of their being able to <hi>im<g ref="char:EOLhyphen"/>prove,</hi> as well as <hi>ſtir</hi> it, and leaſt of all of their <hi>di<g ref="char:EOLhyphen"/>recting</hi> it aright. Becauſe the matter of the Song, where it is Holy, and Pious, will draw the Paſſion after it; and, where it hath to do with Sorrow, improve it into a Penitential one, as in like manner, where it hath to do with Joy, into a Holy, and Pious one, and ſuch as ſhall even in Temporal Bleſ<g ref="char:EOLhyphen"/>ſings conſider rather the goodneſs of God in them, than the ſweetneſs of the Bleſſings themſelves.</p>
+            <p n="3">3. The Third, and laſt Advantage of <hi>Vocal</hi> Mu<g ref="char:EOLhyphen"/>ſick, or (as my Text expreſſeth it) of <hi>Singing,</hi> and <hi>making Melody,</hi> is its prompting the Mind with ſo much the more Pleaſure to reflect upon that, which is the ſubject matter of it, and poſſeſs it with the thing ſung, as well as with the Singing it ſelf. A thing which you ſee St. <hi>Auguſtine</hi> was brought to acknowledge as to himſelf, even when he was moſt
+<pb n="23" facs="tcp:65417:11"/>afraid of being carried away by the Muſick; And will not be ſo hard to attain, where the Man is in<g ref="char:EOLhyphen"/>tent (as no doubt he ought to be) to ſing with the <hi>Heart,</hi> as well as with the <hi>Voice,</hi> with the <hi>Devotion</hi> of the one, as well as with the <hi>Pſalms,</hi> and <hi>Hymns,</hi> and <hi>Spiritual Songs</hi> of the other. For as Charming as <hi>Muſick</hi> is, and muſt be acknowledg'd to be; yet may it, no doubt, be made ſubſervient to that, which is the ſubject matter of it, where a due In<g ref="char:EOLhyphen"/>tention of the Mind goes along with it: Yea made to give ſuch a delight to that <hi>Argument,</hi> which it profeſſeth to adorn, and ſweeten, that it ſhall make Grief it ſelf lovely; And how much more then imbelliſh ſuch things, as are of a more Joyful Con<g ref="char:EOLhyphen"/>ſideration. Otherwiſe I do not ſee how it ſhall come to be the delight of the Saints in Heaven, be<g ref="char:EOLhyphen"/>cauſe there, to be ſure, nothing ſhall enter that ſhall take them off from more Spiritual Delights. I will conclude this Argument, when I have ſaid that the Advantage is ſo great to a Mind, that is alſo intent upon the matter, from the Melody of Spiritual Songs; And the motions of the Mind ſo languid, <hi>in compariſon,</hi> where there are mean Words, and as mean Singing to commend the ſubject matter thereof to it, that a Devout Soul will willingly pre<g ref="char:EOLhyphen"/>fer the former with all its Accidental Diſadvantages, before the dulneſs and heavineſs of the other. For that any of our performances ſhould be without all Diſadvantages is impoſſible in this ſtate of things, and nothing therefore, which is otherwiſe of ſig<g ref="char:EOLhyphen"/>nal uſe, and beſide that, under Command, as we
+<pb n="24" facs="tcp:65417:12"/>ſee this of Singing is, to be refuſed becauſe of them.</p>
+            <p n="5">5. I have hitherto proceeded with very little di<g ref="char:EOLhyphen"/>ſturbance, becauſe there are not many, that are Enemies to that Muſick, which hath been hitherto conſidered. But I muſt not expect to paſs on ſo ſmoothly while I deliver my Opinion concerning that Singing, and making Melody, which is at<g ref="char:EOLhyphen"/>tended with that of Muſical <hi>Inſtruments;</hi> Becauſe though our <hi>Foreign</hi> Writers allow of Singing, even where the Compoſition is more Artificial, yet they repreſent Inſtrumental Muſick among the Rudi<g ref="char:EOLhyphen"/>ments of the Law<note n="(o)" place="margin">Calvin. Com<g ref="char:EOLhyphen"/>ment. in <hi>Pſalm 33.2.</hi> &amp; alibi.</note>, as long before them the <hi>Au<g ref="char:EOLhyphen"/>thour</hi> of the Queſtions and Anſwers <hi>ad Orthodoxos</hi>
+               <note n="(p)" place="margin">Reſp. ad qu. <hi>107.</hi>
+               </note>as a thing <hi>only ſuitable to that Infant-ſtate, wherein thoſe of the Law were. For which cauſe the uſe of it was</hi> (as he ſaith) <hi>taken away in the Churches, and ſimple Singing left in its ſtead.</hi>
+            </p>
+            <p>What reaſon there is to look upon <hi>Inſtrumental</hi> Muſick as a Rudiment of the Law, I cannot under<g ref="char:EOLhyphen"/>ſtand; becauſe throughout the whole <hi>Law</hi> there is no mention of any other Inſtrument, than of the Trumpet, and which too appears rather to have been uſed<note n="(q)" place="margin">Num. 10.2. Lev. 25.9.</note> to give <hi>notice of a Feſtival,</hi> or to <hi>call the People together</hi> to celebrate it, than any proper attendant of its ſervice. And as little reaſon I think there is, why we ſhould look upon ſuch Inſtruments as accommodated only to an <hi>Infant-ſtate,</hi> and par<g ref="char:EOLhyphen"/>ticularly to that of the <hi>Law;</hi> Becauſe as there is mention of the uſe of them before the giving of
+<pb n="25" facs="tcp:65417:12"/>the Law, and particularly at the Singing of that ſo famous Song of <hi>Moſes</hi> upon the overthrow of the <hi>Egyptians</hi> in the Red Sea: (For <hi>Moſes</hi> tells us<note n="(r)" place="margin">Exo. 15.20.</note>that <hi>Miriam</hi> the Propheteſs, and the Women that attended her, did not only anſwer that Song of his with their Mouths, but with their <hi>Timbrels</hi>); ſo it appears that they were moſtly employ'd, if not alſo appointed, when the Spiritual part of Gods Wor<g ref="char:EOLhyphen"/>ſhip was at the higheſt among that People, (as to be ſure it was in the time of <hi>David</hi>) and frequent and earneſt Exhortations<note n="(s)" place="margin">Pſalm 33.—81.150. <hi>&amp; alibi paſſim.</hi>
+               </note> made to the Praiſing of God with them. For who can look upon that as a Legal Inſtitution, which was the attendant of the moſt Spiritual Worſhip, which ever the <hi>Jews</hi> had, and which hath alwayes been thought ſo Spi<g ref="char:EOLhyphen"/>ritual, that the Scriptures of the <hi>New Teſtament</hi> call upon us to make uſe of it, and the Church of God hath from the beginning made the principal part of it's.</p>
+            <p>This I take to be a ſufficient Anſwer to an Obje<g ref="char:EOLhyphen"/>ction, that is without all ground; becauſe that very <hi>Law,</hi> to which it entitles <hi>Inſtrumental Muſick,</hi> makes no mention of it. But I will however, to ſilence, if poſſible, the Clamours of Unreaſonable Men, make it appear to have a ſufficient foundation in that <hi>Reaſon</hi> which is common to us all, and which as it had a being long before the <hi>Law of Moſes,</hi> ſo will continue of force, as long as we our ſelves ſhall: That, I mean, which perſwades the uſe of ſuch things in the Worſhip of God, as may be <hi>ſervicevble to it,</hi> or <hi>helpful to the Devotions</hi> of thoſe that have a part in it.</p>
+            <pb n="26" facs="tcp:65417:13"/>
+            <p>For whereas the greater part of thoſe that aſſiſt at the Worſhip of God, neither have, nor can well be ſuppoſed to have, any ſuch skill in Singing, as to carry them with any tolerable <hi>concent</hi> through the Pſalms, or Hymns that are uſed in the Church; By which means the Service it ſelf comes to be ab<g ref="char:EOLhyphen"/>borred, or, at leaſt, many, that are concerned in it, are forced to give it over: The <hi>Organ,</hi> in particular, both by the <hi>Lowdneſs,</hi> and the <hi>Harmoniouſneſs</hi> there<g ref="char:EOLhyphen"/>of doth, with a kind of grateful Violence, carry the Voices of Men along with it, and not only prevents any ſuch indecent Diſcords as might otherwiſe ariſe, but makes their Voices indeed and in truth to anſwer that Melody, which is here exhorted to, and is, it may be, the only <hi>Inſtrument</hi> that can with any cer<g ref="char:EOLhyphen"/>tainty procure it.</p>
+            <p>Whereas again the Affections of the generality of Men are, and will be dull, but however there is none of us all, whoſe Affections do not often want quickning in the Worſhip of God; In which caſe Reaſon it ſelf will perſwade the uſe of ſuch pro<g ref="char:EOLhyphen"/>bable means as may be helpful to us in the ſtirring of them, but eſpecially in that part of Gods Ser<g ref="char:EOLhyphen"/>vice, which requires a ſprightly and a chearful Mind: What can be more reaſonable than to make uſe of ſuch <hi>Inſtruments</hi> of Muſick, as tend in their own Nature to excite and improve them; yea, do not ſeldom transform Men into a perfectly different Temper from what they were before they liftned to them?</p>
+            <pb n="27" facs="tcp:65417:13"/>
+            <p>So great reaſon is there to believe that <hi>Inſtrumen<g ref="char:EOLhyphen"/>tal</hi> Muſick, as well as <hi>Vocal,</hi> came into the Church, not from any perverſe imitation of the <hi>Law of Moſes,</hi> as ſome have fondly enough imagined, but from the apparent uſefulneſs of the thing it ſelf, and which Mens common Reaſon, as well as Experience, led them to the approbation of. If it came not in ſooner, or did not ſpread more univerſally when it did, (for it appears not to have come into the Church till the Year 660<note n="(t)" place="margin">
+                  <hi>Joan. Bona</hi> Divin. Pſalmo. cap. 17. ſect. 2.</note>, nor to have diffuſed it ſelf every where when it did) it was either be<g ref="char:EOLhyphen"/>cauſe the diſconſolateneſs of the Times did not com<g ref="char:EOLhyphen"/>port with it, as to be ſure thoſe of the firſt Three Hundred Years did not; Or becauſe Men had an unreaſonable ſcruple againſt it as a thing only ſuited to the Infant-ſtate of the Synagogue; Or, becauſe, where it was received, it was not managed with that Gravity, wherewith all Eccleſiaſtical Offices ought to be attended. For againſt the thing, in it ſelf conſidered, there can be no ſcruple at all; nei<g ref="char:EOLhyphen"/>ther have there been more devout Men upon Earth, than thoſe who have delighted in it, and practiſed it with ſignal advantage to themſelves, if the Pro<g ref="char:EOLhyphen"/>phet <hi>David,</hi> and our Divine <hi>Herbert</hi> may paſs for ſuch.</p>
+            <p>What remains then, but that having in the firſt place endeavour'd to get our ſelves repleniſhed with the <hi>Spirit,</hi> and particularly with thoſe Graces of it, which ſerve more immediately to the exciting of a Spiritual and Heavenly Joy, we endeavour to keep it up, and improve, and expreſs it by Pſalms, and
+<pb n="28" facs="tcp:65417:14"/>Hymns, and Spiritual Songs? Singing indeed, and making Melody <hi>in our Heart to the Lord,</hi> becauſe without that it can be no Melody in the Ears of the Divine Majeſty, but withal Singing, and making Melody with our Voices, and Inſtruments, as well as in our Hearts, becauſe theſe do in their way ex<g ref="char:EOLhyphen"/>preſs our grateful reſentment of his Benefits, and do moreover excite, and improve that Melody of the Heart, which we have ſaid to be ſo acceptable to him.</p>
+            <p>After which the following <hi>Hymn</hi> was ſung.</p>
+            <div type="hymn">
+               <pb n="29" facs="tcp:65417:14"/>
+               <head>The HYMN.</head>
+               <lg>
+                  <l>COme <hi>Holy Ghoſt,</hi> and with thy Light, and Fire</l>
+                  <l>Diſpel our Miſts, and kindle our Deſire;</l>
+                  <l>That we at once thy ſaving Truths may know,</l>
+                  <l>And with thy gracious <hi>Fruits</hi> enamour'd grow.</l>
+                  <l>The <hi>greater,</hi> and the <hi>leſſer</hi> World to thee</l>
+                  <l>Doth owe its Light, and Life, and Purity.</l>
+               </lg>
+               <lg>
+                  <l>By thee the <hi>Patriarchal</hi> Age was taught,</l>
+                  <l>By thee the <hi>Chriſtian</hi> was to Knowledge brought;</l>
+                  <l>By thee each came to love, as well as know</l>
+                  <l>What their Great Lord had ordered them to do.</l>
+                  <l>Thou didst to each their Light, and Heat impart,</l>
+                  <l>For thou the Teacher of their Teachers wer't.</l>
+               </lg>
+               <lg>
+                  <l>O may'ſt <hi>thou</hi> ſtill the ſame kind Beams diſplay,</l>
+                  <l>Direct us to, and chear us in our way;</l>
+                  <l>Prompt us to love, as well as to fulfil</l>
+                  <l>The harſheſt parts of our Creatours Will.</l>
+                  <l>The fear of Ill may drive Men to his Law,</l>
+                  <l>But thou alone to it can'ſt ſweetly draw.</l>
+               </lg>
+               <pb n="30" facs="tcp:65417:15"/>
+               <lg>
+                  <l>And may <hi>we</hi> alſo, when w'are thus inſpir'd,</l>
+                  <l>And with a calm, but ardent Zeal are fir'd</l>
+                  <l>
+                     <hi>Make</hi> liveleſs Organs joyn with us in Praiſe,</l>
+                  <l>And to thy <hi>Grace</hi> a grateful Trophy raiſe.</l>
+                  <l>For 'tis not <hi>they,</hi> but <hi>we</hi> thoſe Accents frame,</l>
+                  <l>Which our Devotion, and thy Praiſe proclaim.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:65417:15"/>
+            <head>Some Books Printed for <hi>B. Aylmer,</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhill.</hi>
+            </head>
+            <p>THE Works of the Moſt Reverend Dr. <hi>John Tillotſon,</hi> late Lord Archbiſhop of <hi>Canterbury,</hi> containing Fifty Four Sermons and Diſcourſes on Several Occaſions; Together with the Rule of Faith. Being all that were Publiſhed by his Grace himſelf, and now collected into one Volume: To which is added, an Alphabetical Table of the Principal Mat<g ref="char:EOLhyphen"/>ters. <hi>Price</hi> 20 s.</p>
+            <p>The Works of the Learned <hi>Iſaac Barrow,</hi> D. D. late Maſter of <hi>Trinity-College</hi> in <hi>Cambridge.</hi> The Third Volume. Containing Forty Five Sermons upon Several Occaſions. In <hi>Folio.</hi>
+            </p>
+            <p>Practical Diſcourſes upon the Conſideration of our Latter End, and the Danger and Miſchief of Delay<g ref="char:EOLhyphen"/>ing Repentance. By Dr. <hi>Iſaac Barrow,</hi> in <hi>Octavo. Price</hi> 18 <hi>d.</hi>
+            </p>
+            <p>The Four Laſt Things, <hi>viz.</hi> Death, Judgment, Heaven, and Hell: Practically Conſidered and Ap<g ref="char:EOLhyphen"/>plied. By <hi>W. Bates,</hi> D. D. in 120. <hi>Price</hi> 2 <hi>s.</hi>
+            </p>
+            <p>The Great Duty of Reſignation to the Divine Will in Afflictions. Alſo by Dr. <hi>Bates.</hi> In 8 <hi>vo. Price</hi> 18 <hi>d.</hi>
+            </p>
+            <p>Sermons of the Forgiveneſs of Sins. On <hi>Pſal.</hi> 130. <hi>v.</hi> 4. Alſo by Dr. <hi>Bates. Price</hi> 18 <hi>d.</hi>
+            </p>
+            <p>The Cure of Diſtractions in Attending upon God. In ſeveral Sermons. By <hi>Nath. Vincent,</hi> M. A. In 8 <hi>vo. Price</hi> 2 <hi>s.</hi>
+            </p>
+            <pb facs="tcp:65417:16"/>
+            <p>Alſo ſeveral Sermons againſt the Love of the World. By <hi>N Vincent.</hi> In 120. <hi>Price</hi> 12 <hi>d.</hi>
+            </p>
+            <p>Alſo his Sermon at the Funeral of Mr. <hi>Lawrence.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>The Tryal and Condemnation of Sir <hi>John Friend,</hi> and Sir <hi>William Parkins,</hi> Knights, for the Horrid and Execrable Conſpiracy, <hi>&amp;c.</hi> who, upon full Evidence, was found guilty of High-Treaſon, at the <hi>Seſſions<g ref="char:EOLhyphen"/>houſe</hi> in the <hi>Old Baily.</hi> Together with a true Copy of the Papers delivered to the Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi> by them at the place of Execution, owning their Crimes. <hi>To be ſold at</hi> 12 d. <hi>each Tryal. By</hi> B. Aylmer.</p>
+            <p>The Biſhop of <hi>Glouceſters</hi> Thankſgiving Sermon preached before the Houſe of Lords <hi>April</hi> 16.</p>
+            <p>Mr. <hi>Stephens</hi> of <hi>Sutton</hi> in <hi>Surrey,</hi> his Thankſgiving Sermon preached before the Lord Mayor and Alder<g ref="char:EOLhyphen"/>men at <hi>Bow</hi> Church the ſame day.</p>
+            <p>Mr. <hi>John Showers</hi> his Thankſgiving Sermon the ſame day.</p>
+            <p>Mr. <hi>Strype</hi> of <hi>Low-Layton</hi> in <hi>Eſſex,</hi> his Thankſ<g ref="char:EOLhyphen"/>giving Sermon the ſame day.</p>
+            <p>Mr. <hi>Gardiner</hi> of <hi>London</hi> his Thankſgiving Sermon the ſame day.</p>
+            <p>The Chriſtian Merchant, deſcribed in a Sermon; Humbly Dedicated to all the Merchants of the City. By <hi>W. Goſtwyke,</hi> Rector of <hi>Purley</hi> in <hi>Berks.</hi>
+            </p>
+            <p>The Advice of a Father: Or Counſel to a Child; Directing him how to demean himſelf in the moſt important paſſages of this Life. By <hi>E. C.</hi> Gent. In 120. <hi>Price</hi> 12 <hi>d.</hi>
+            </p>
+            <p>A Conference with an Anabaptiſt. By Dr. <hi>Aſheton</hi> of <hi>Beckenham</hi> in <hi>Kent. Price</hi> 12 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:65417:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
